@@ -1,0 +1,23 @@
+body {
+  background-color: #f2f7ff;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+h1, h2 {
+  text-align: center;
+  color: darkblue;
+}
+
+.centered {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+}

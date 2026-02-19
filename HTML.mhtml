@@ -1,0 +1,79 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/okeol/OneDrive/Desktop/GitHub/dist/index.html
+Subject: Untitled
+Date: Thu, 19 Feb 2026 06:00:07 +0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--eXxKHIHWPMvM4Xf7MQvOX9DDk0buuqKRUh6kBq8oQN----"
+
+
+------MultipartBoundary--eXxKHIHWPMvM4Xf7MQvOX9DDk0buuqKRUh6kBq8oQN----
+Content-Type: text/html
+Content-ID: <frame-2C402F162F2C311DE77F531856763552@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/okeol/OneDrive/Desktop/GitHub/dist/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <title>Untitled</title>
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/okeol/OneDrive/Deskto=
+p/GitHub/dist/style.css">
+
+  </head>
+   =20
+  <body>
+  <h1>ALL ABOUT SALZBURG</h1>
+
+<p>
+Salzburg is one of Europe=E2=80=99s most charming cities, known for its bea=
+utiful Baroque buildings, peaceful atmosphere, and rich musical history. Th=
+e city sits beside the River Salzach and is surrounded by stunning mountain=
+ views, giving it a magical, postcard-like feel. Salzburg is famous as the =
+birthplace of Wolfgang Amadeus Mozart, and visitors can explore the places =
+where he lived and composed. The impressive Hohensalzburg Fortress watches =
+over the city from a hilltop, while the elegant Salzburg Cathedral stands p=
+roudly in the Old Town. With its mix of culture, history, and scenery, Salz=
+burg is a wonderful place to discover.
+</p>
+
+<h2>Famous Places in Salzburg</h2>
+
+<img class=3D"centered" src=3D"https://upload.wikimedia.org/wikipedia/commo=
+ns/6/6e/Mozarts_Geburtshaus_Salzburg.jpg" alt=3D"Mozart's Birthplace">
+
+<img src=3D"https://upload.wikimedia.org/wikipedia/commons/5/5c/Salzburg_-_=
+Festung_Hohensalzburg.JPG" alt=3D"Hohensalzburg Fortress">
+
+<img src=3D"https://upload.wikimedia.org/wikipedia/commons/0/0b/Salzburg_Ca=
+thedral_2019.jpg" alt=3D"Salzburg Cathedral">
+
+<h2>My Favourite Things About Salzburg</h2>
+
+<ul>
+  <li>The beautiful mountain scenery</li>
+  <li>The rich musical history of Mozart</li>
+  <li>The stunning historic buildings and landmarks</li>
+</ul>
+   =20
+ =20
+ =20
+
+</body></html>
+------MultipartBoundary--eXxKHIHWPMvM4Xf7MQvOX9DDk0buuqKRUh6kBq8oQN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/okeol/OneDrive/Desktop/GitHub/dist/style.css
+
+@charset "utf-8";
+
+body { background-color: rgb(242, 247, 255); font-family: Arial, sans-serif=
+; line-height: 1.6; padding: 20px; }
+
+h1, h2 { text-align: center; color: darkblue; }
+
+.centered { display: block; margin: 20px auto; width: 60%; }
+
+img { display: block; margin: 20px auto; width: 60%; }
+------MultipartBoundary--eXxKHIHWPMvM4Xf7MQvOX9DDk0buuqKRUh6kBq8oQN------
